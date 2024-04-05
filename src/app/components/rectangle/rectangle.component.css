@@ -1,0 +1,16 @@
+.rectangle-container {
+  position: relative;
+}
+
+svg {
+  border: 1px solid black;
+}
+
+.perimeter {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: white;
+  padding: 5px;
+  border: 1px solid black;
+}
